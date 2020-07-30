@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebStudio</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Web Studio</h1>
+
+            <ul>
+                <li><a href="#">О нас</a></li>
+                <li><a href="#">Цены и услуги</a></li>
+                <li><a href="#">Мастера</a></li>
+                <li><a href="#">Контакты</a></li>
+            </ul>
+            <address>
+                <a href="info@devstudio.com"><br>
+                    +38 044 111 11 11</a>
+            </address>
+        </nav>
+    </header>
+
+<main>
+   <h2>Эффективные решения для вашего бизнеса</h2>
+    <button>Заказать услугу</button>
+    
+    <ul>
+        <li>Внимание к деталям</li>
+        <li>Пунктуальность</li>
+        <li>Планирование</li>
+        <li>Современные технологии</li>
+    </ul>
+
+    <h3>Чем мы занимаемся</h3>
+    <ul>
+        <li>Десктопные приложения</li>
+        <li>Мобильные приложения</li>
+        <li>Дизайнерские решения</li>
+    </ul>
+
+    <b>Наша команда</b>
+    <ul>
+        <li>Николай Кучеренко<br>Product Designer</li>
+        <li>Ольга Иванова<br>Frontend Developer</li>
+        <li>Андрей Шевченко<br>Marketing</li>
+        <li>Иван Николаев<br>UI Designer</li>
+    </ul>
+
+    <b>Постоянные клиенты</b>
+    <ul>
+        <li>YA & CO</li>
+        <li>COMPANY<br>tagline here</li>
+        <li>COMPANY</li>
+        <li>FOSTER PETERS</li>
+        <li>BRAND</li>
+        <li>COMPANY<br>TAG LINE</li>
+    </ul>
+
+    <b>Web Studio</b>
+    <address>г.Киев, пр-т Леси Украинки, 26</adress>
+    <mail>info@example.com</mail>
+    <phone>+38 099 111 11 11</phone>
+
+    <button>Instagram</button>
+    <button>Twitter</button>
+    <button>Facebook</button>
+    <button>Linked In</button>
+
+    <button>Подписаться на рассылку</button>
+</main>
+</body>
+</html>
